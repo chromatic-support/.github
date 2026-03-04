@@ -26,4 +26,5 @@ Explore examples – Browse our public repositories to see how others have integ
 ## 🆘 Important links
 
 [Chromatic documentation](https://www.chromatic.com/docs/)
+
 [Storybook documentation](https://storybook.js.org/docs)
