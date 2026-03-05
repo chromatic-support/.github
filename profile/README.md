@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to the chroma-support GitHub organization! This space is maintained by the Chromatic Support Team to help our customers get the most out of Chromatic.
+Welcome to the chromatic-support GitHub organization! This space is maintained by the Chromatic Customer Teams to help our customers get the most out of Chromatic.
 
 ## 🎯 Our Mission
 
